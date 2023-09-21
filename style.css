@@ -11,6 +11,18 @@
             background-color: white;
             box-shadow: 0 0 10px rgba(209, 84, 34, 0.1);
         }
+
+        #loading-spinner {
+            width: 3rem; /* Adjust the width as needed */
+            height: 3rem; /* Adjust the height as needed */
+            color: black; /* Change the color to your preferred color */
+            position: absolute; /* Adjust the position as needed */
+            top: 20%; /* Center vertically */
+            left: 50%; /* Center horizontally */
+            margin-top: -1.5rem; /* Negative margin to center vertically */
+            margin-left: -1.5rem; /* Negative margin to center horizontally */
+        }
+
         h1 {
             color: black;
             font-size: 28px;
@@ -37,6 +49,7 @@
             color: black;
             margin-bottom: 10px;
         }
+        
         ul {
             list-style-type: disc;
             margin-left: 20px;

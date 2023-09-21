@@ -11,9 +11,10 @@
             background-color: white;
             box-shadow: 0 0 10px rgba(209, 84, 34, 0.1);
         }
-        .resume-page {
+        
+        /*.resume-page {
             display: none; /* Hide all pages by default */
-        }
+        /*}
 
         /* Style the pagination buttons */
         #prev-page,
